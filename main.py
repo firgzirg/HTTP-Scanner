@@ -1,5 +1,5 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
-from main-ui import *
+from mainui import *
 import sys
 import requests
 import time as t
